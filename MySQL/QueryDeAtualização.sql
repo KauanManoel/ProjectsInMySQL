@@ -1,0 +1,1 @@
+update tb_funcionarios set nome = "Jamal Murray" where id = 4

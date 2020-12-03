@@ -1,0 +1,1 @@
+select * from tb_funcionarios where salario > 1000 and salario < 2000
